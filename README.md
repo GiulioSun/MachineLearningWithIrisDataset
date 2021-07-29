@@ -1,5 +1,3 @@
-# MachineLearning
-
 # Introduction about Iris Flower 
 
 <p style="text-align: justify;">The Iris Flower Dataset, also called Fisher’s Iris, is a dataset introduced by Ronald Fisher, a British statistician, and biologist, with several contributions to science. Ronald Fisher has well known worldwide for his paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis. It was in this paper that Ronald Fisher introduced the Iris flower dataset.</p>
